@@ -1,0 +1,62 @@
+#container{
+background-image: url("http://www.hdwallpapers.in/walls/2013_despicable_me_2_minions-wide.jpg");
+background-size: 1350px;
+background-repeat: no-repeat;
+
+}
+.box1 {
+    position: absolute;
+    top:10%;
+    left:25%;
+    border-radius: 50px;
+    background-color: #F62459;
+    font-weight: bold;
+    padding:50px;
+    text-align: center;
+    border:1px solid black;
+    height: 100px;
+    width: 200px;
+}
+.box2 {
+    position: absolute;
+    top:10%;
+    left:55%;
+    border-radius: 50px;
+    background-color: #F62459;
+    font-weight: bold;
+    padding:50px;
+    text-align: center;
+    border:1px solid black;
+    height: 100px;
+    width: 200px;
+}
+.box3{
+    position: absolute;
+    top:45%;
+    left:40%;
+    border-radius: 50px;
+    background-color: #F62459;
+    font-weight: bold;
+    padding:50px;
+    text-align: justify;
+    border:1px solid black;
+    height: 200px;
+    width: 200px;
+}
+#result{
+    font-size: 30px;
+    position: absolute;
+    top:110%;
+    left:-35%;
+    border-radius: 50px;
+    background-color: #F62459;
+    font-weight: bold;
+    padding:50px;
+    text-align: center;
+    border:1px solid black;
+    height: 50px;
+    width: 400px;
+}
+button:hover{
+border-color: blue;
+}
